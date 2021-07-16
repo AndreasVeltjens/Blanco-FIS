@@ -1,0 +1,140 @@
+.ct-chart {
+    position: relative;
+}
+
+.ct-legend {
+    position: relative;
+    z-index: 10;
+    list-style: none;
+    text-align: left;
+    font-size: 10px;
+    font-weight: 90;
+}
+
+.ct-legend li {
+    position: relative;
+    padding-left: 23px;
+    margin-right: 10px;
+    margin-bottom: 3px;
+    cursor: pointer;
+    display: inline-block;
+}
+
+.ct-legend li:before {
+    width: 12px;
+    height: 12px;
+    position: absolute;
+    left: 0;
+    content: '';
+    border: 3px solid transparent;
+    border-radius: 2px;
+}
+
+.ct-legend li.inactive:before {
+    background: transparent;
+}
+
+.ct-legend.ct-legend-inside {
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.ct-legend.ct-legend-inside li {
+    display: block;
+    margin: 0;
+}
+
+.ct-legend .ct-series-0:before {
+    background-color: #0090f7;
+}
+
+.ct-legend .ct-series-1:before {
+    background-color: #0fb1e5;
+}
+
+.ct-legend .ct-series-2:before {
+    background-color: #dcdcdc;
+}
+
+.ct-legend .ct-series-3:before {
+    background-color: #4c5ace;
+}
+
+.ct-legend .ct-series-4:before {
+    background-color: #473c3f;
+}
+
+.ct-legend .ct-series-5:before {
+    background-color: #3f9a28;
+}
+
+.ct-legend .ct-series-6:before {
+    background-color: #2a20d6;
+}
+
+.ct-legend .ct-series-7:before {
+    background-color: #790093;
+}
+
+.ct-legend .ct-series-8:before {
+    background-color: #ff3c3f;
+}
+
+.ct-legend .ct-series-9:before {
+    background-color: #e4a34e;
+}
+
+.ct-legend .ct-series-10:before {
+    background-color: #ecd277;
+}
+
+.ct-legend .ct-series-11:before {
+    background-color: #89787d;
+}
+
+.ct-legend .ct-series-12:before {
+    background-color: #a9cb0e;
+}
+
+.ct-legend .ct-series-13:before {
+    background-color: #4c5ace;
+}
+
+.ct-legend .ct-series-14:before {
+    background-color: #473c3f;
+}
+
+.ct-legend .ct-series-15:before {
+    background-color: #3f9a28;
+}
+
+.ct-legend .ct-series-16:before {
+    background-color: #6280e5;
+}
+
+.ct-legend .ct-series-17:before {
+    background-color: #0090f7;
+}
+
+.ct-legend .ct-series-18:before {
+    background-color: #0fb1e5;
+}
+
+.ct-legend .ct-series-19:before {
+    background-color: #dcdcdc;
+}
+
+.ct-chart-line-multipleseries .ct-legend .ct-series-0:before {
+    background-color: #d70206;
+    border-color: #d70206;
+}
+
+.ct-chart-line-multipleseries .ct-legend .ct-series-1:before {
+    background-color: #f4c63d;
+    border-color: #f4c63d;
+}
+
+.ct-chart-line-multipleseries .ct-legend li.inactive:before {
+    background: transparent;
+}

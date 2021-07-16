@@ -1,0 +1,532 @@
+/* Styles für die Inputs */
+INPUT.T10BH000000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#000000;
+	font-size:10px;
+	font-weight:bold;
+}
+
+INPUT.T10H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:10px;
+}
+
+INPUT.T11H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:11px;
+	text-decoration:none;
+}
+
+
+/* Styles für die Zellen einer Tabelle */
+/*TD.T10BHC7DAF8
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#C7DAF8;
+	font-size:10px;
+}*/
+
+TD.ThreeSpecial11pxBGrey
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:11px;
+	color:#848484;
+	font-weight:bold;
+}
+
+TD.ThreeSpecial10pxGrey
+{
+	font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:10px;
+	color:#848484;
+}
+
+TD.ThreeSpecial13pxGrey
+{
+	font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:13px;
+	color:#848484;
+}
+
+TD.ThreeSpecial11pxBBlue
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:11px;
+	color:#202060;
+	font-weight:bold;
+}
+
+TD.ThreeSpecial10pxBlue
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:10px;
+	color:#202060;
+}
+
+TD.ThreeSpecial10pxRed
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:10px;
+	color:#FF0000;
+}
+
+TD.ThreeSpecial13pxBRed
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:13px;
+	color:#FF0000;
+	font-weight:bold;
+}
+
+TD.ThreeSpecial13pxBlue
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	font-size:13px;
+	color:#202060;
+}
+
+TEXTAREA.T10H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:10px;
+	text-decoration:none;
+}
+
+/* Styles für die Hyperlinks */
+A.T11H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:11px;
+	text-decoration:none;
+}
+
+A.T11BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:11px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.T12H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:12px;
+	text-decoration:none;
+}
+
+A.T12BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+A.T12BHFFFFFF
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FFFFFF;
+	font-size:12px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/* Dieser Style steht nicht in der Spezifikation */
+A.T10BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:10px;
+	font-weight:bold;
+	text-decoration:none;
+}
+
+/* Dieser Style steht nicht in der Spezifikation */
+A.T10H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:10px;
+	text-decoration:none;
+}
+
+/* Dieser Style steht nicht in der Spezifikation */
+A.T11HC0C0C0
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#C0C0C0;
+	font-size:11px;
+	text-decoration:none;
+}
+/* Styles für die DropDownListen */
+SELECT.T10BH333333
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#333333;
+	font-size:10px;
+}
+
+/* Styles für die Schriftart */
+FONT.T10H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:10px;
+}
+
+FONT.T10H97B6D9
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#97B6D9;
+	font-size:10px;
+}
+
+FONT.T10HC6DAF7
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#C6DAF7;
+	font-size:10px;
+}
+
+FONT.T11H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:11px;
+	text-decoration:none;
+}
+
+FONT.T11BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:11px;
+	font-weight:bold;
+}
+
+/* Dieser Style steht nicht in der Spezifikation */
+FONT.T11BHblue
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:blue;
+	font-size:11px;
+	font-weight:bold;
+}
+
+FONT.T11HFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:11px;
+}
+
+FONT.T11BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:11px;
+	font-weight:bold;
+}
+
+FONT.T11HFFFFFF
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FFFFFF;
+	font-size:11px;
+}
+
+FONT.T11BHFFFFFF
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FFFFFF;
+	font-size:11px;
+	font-weight:bold;
+}
+
+FONT.T11H97B6D9
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#97B6D9;
+	font-size:11px;
+}
+
+FONT.T11BHC6DAF7
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#C6DAF7;
+	font-size:11px;
+	font-weight:bold;
+}
+
+FONT.T11HC6DAF7
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#C6DAF7;
+	font-size:11px;
+}
+
+FONT.T11BHC6DAF7
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#C6DAF7;
+	font-size:11px;
+	font-weight:bold;
+}
+
+FONT.T12BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:12px;
+	font-weight:bold;
+}
+
+FONT.T12BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:12px;
+	font-weight:bold;
+}
+
+FONT.T12BHFFFFFF
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FFFFFF;
+	font-size:12px;
+	font-weight:bold;
+}
+
+FONT.T14BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:14px;
+	font-weight:bold;
+}
+
+FONT.T14BH00AE31
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#00AE31;
+	font-size:14px;
+	font-weight:bold;
+}
+
+FONT.T14BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:14px;
+	font-weight:bold;
+}
+
+FONT.T14HFFFFFF
+{
+	font-family:Helvetica Inserat,Arial;
+	color:#FFFFFF;
+	font-size:14px;
+}
+
+FONT.T18BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:18px;
+	font-weight:bold;
+}
+
+FONT.T18BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:18px;
+	font-weight:bold;
+}
+
+FONT.T20BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:20px;
+	font-weight:bold;
+}
+
+FONT.T21H003366
+{
+	font-family:Helvetica Inserat,Arial;
+	color:#003366;
+	font-size:21px;
+}
+
+FONT.T21HFF0000
+{
+	font-family:Helvetica Inserat,Arial;
+	color:#FF0000;
+	font-size:21px;
+}
+
+FONT.T28BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:28px;
+	font-weight:bold;
+}
+
+FONT.T28BH97B6D9
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#97B6D9;
+	font-size:28px;
+	font-weight:bold;
+}
+
+FONT.T32BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:32px;
+	font-weight:bold;
+}
+
+/* Dieser Style steht nicht in der Spezifikation */
+FONT.T10BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:10px;
+	font-weight:bold;
+}
+
+/* Dieser Style steht nicht in der Spezifikation */
+FONT.T10HDCDCDC
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#DCDCDC;
+	font-size:10px;
+}
+
+/*FONT.T11BH333333 
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#333333;
+	font-size:11px;
+}*/
+
+/* Dieser Style steht nicht in der Spezifikation */
+/*FONT.T09H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:09px;
+}*/
+
+/* Dieser Style steht nicht in der Spezifikation */
+/*FONT.T10HFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:10px;
+}*/
+
+/* Der nächste Style ist in der Spezifikation noch nicht festgelegt*/
+/*FONT.T12H003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:12px;
+}*/
+
+/* Der nächste Style ist in der Spezifikation noch nicht festgelegt*/
+/*FONT.T11HFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:12px;
+}*/
+
+/* Der nächste Style ist in der Spezifikation noch nicht festgelegt*/
+/*FONT.T20BH003366
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#003366;
+	font-size:20px;
+	font-weight:bold;
+}*/
+
+/* Der nächste Style ist in der Spezifikation noch nicht festgelegt*/
+/*FONT.T20BHFF0000
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:20px;
+	font-weight:bold;
+}*/
+
+/* Der nächste Style ist in der Spezifikation noch nicht festgelegt*/
+/*FONT.T16BHFFFFFF
+{
+	font-family:Arial,Verdana,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FFFFFF;
+	font-size:16px;
+	font-weight:bold;
+}*/
+
+/* alte Styles*/
+/*FONT.Text10BRed
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:10px;
+	font-weight:bold;
+}*/
+
+/*FONT.Text10
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#202060;
+	font-size:10px;
+}*/
+
+/*FONT.Text10B
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#202060;
+	font-size:10px;
+	font-weight:bold;
+}*/
+
+/*FONT.Text10Red
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:10px;
+}*/
+
+/*FONT.Text11BRed
+{
+	font-family:Verdana,Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FF0000;
+	font-size:11px;
+	font-weight:bold;
+}*/
+
+/*FONT.Text11BWhite
+{
+	font-family:Arial,Helvetica,Geneva,Swiss,SunSans-Regular;
+	color:#FFFFFF;
+	font-size:11px;
+	font-weight:bold;
+}*/
